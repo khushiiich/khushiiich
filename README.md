@@ -1,16 +1,79 @@
-## Hi there 👋
+```md
+<h1 align="center">Hi 👋, I'm Khushi Choyal</h1>
+<h3 align="center">🚀 Final Year CSIT Student | Java Backend Developer | Passionate Learner</h3>
 
-<!--
-**khushiiich/khushiiich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+Learner;DSA+Enthusiast;Open+to+Internships+%26+Placements" />
+</p>
 
-Here are some ideas to get you started:
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👩‍💻 About Me
+
+- 🎓 Final Year B.Tech Student in **CSIT**
+- 💻 Passionate about **Java Backend Development**
+- 🌱 Currently learning **DSA, Spring Boot & Advanced Java**
+- 🚀 Interested in **Software Development Roles**
+- 🛠️ Love building real-world projects using Java
+- 📚 Constantly learning and improving my skills
+
+📫 Reach me at:  
+📧 **khushichoyal01@gmail.com**
+
+🔗 LinkedIn:  
+💼 https://www.linkedin.com/in/khushi-choyal2004/
+
+---
+
+## 🚀 Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,mysql,html,css,js,github,vscode,eclipse,git" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🏦 Banking Management System
+Java-based banking application using JDBC and MySQL.
+
+### 🍕 Pizza Web Application
+Dynamic pizza ordering web app using Java technologies.
+
+### 🍽️ Restaurant Billing System
+Billing and order management system for restaurants.
+
+### 📸 Instagram Mini Clone
+Frontend-based mini Instagram UI project.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=khushiiich&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=khushiiich&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushiiich&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌟 Quote
+
+> “Success doesn’t come from what you do occasionally, it comes from what you do consistently.”
+
+---
+
+<p align="center">
+  ⭐ From <a href="https://github.com/khushiiich">Khushi Choyal</a>
+</p>
+```
